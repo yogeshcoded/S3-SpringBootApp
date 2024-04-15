@@ -8,9 +8,9 @@ This is a sample Java / Maven / Spring Boot (version 3.2.4) application
 This application is packaged as a jar which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You run it using the java -jar command.
 
 Clone this repository <br>
-Make sure you are using JDK 17 and Maven 3.x
-You can build the project and run the tests by running mvn clean package
-Once successfully built, you can run the service by one of these two methods:
+Make sure you are using JDK 17 and Maven 3.x  <br>
+You can build the project and run the tests by running mvn clean package  <br>
+Once successfully built, you can run the service by one of these two methods: 
 
     java -jar target/S3IntegrationWithSpringBootApp-0.0.1-SNAPSHOT.jar
 
