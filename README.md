@@ -5,7 +5,7 @@ This is a sample Java / Maven / Spring Boot (version 3.2.4) application
 
 
 ## How to Run
-This application is packaged as a war which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You run it using the java -jar command.
+This application is packaged as a jar which has Tomcat 8 embedded. No Tomcat or JBoss installation is necessary. You run it using the java -jar command.
 
 Clone this repository
 Make sure you are using JDK 17 and Maven 3.x
