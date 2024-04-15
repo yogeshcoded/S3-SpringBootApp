@@ -1,0 +1,24 @@
+server:
+    port: 9090
+spring:
+  cloud:
+    aws:
+      credentials:
+        access-key: you
+        secret-key: AaNC2yV8xZ
+      s3:
+        enabled: true
+
+      region:
+        static: ap-south-1
+  application:
+    name: S3-integration
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 100MB
+
+
+
+
+
